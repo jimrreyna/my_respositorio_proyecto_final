@@ -93,10 +93,40 @@ footer p {
 @media (min-width: 700px) and (max-width: 1100px) {
   .imagen {
     width: 300px;
-    height: 100px; } }
+    height: 100px; }
+  .listas {
+    text-align: left;
+    font-size: 15px; }
+  .titulo1 {
+    font-weight: bold;
+    font-size: 25px;
+    border-top: 2px;
+    padding: 2px; }
+  .titulo2 {
+    text-align: left;
+    font-weight: bold;
+    padding-top: 20px; }
+  .parrafo {
+    text-align: left;
+    font-size: 15px; } }
 
 /* MOVIL*/
 @media (max-width: 699px) {
   .imagen {
     width: 250px;
-    height: 80px; } }
+    height: 80px; }
+  .listas {
+    text-align: left;
+    font-size: 15px; }
+  .titulo1 {
+    font-weight: bold;
+    font-size: 25px;
+    border-top: 2px;
+    padding: 2px; }
+  .titulo2 {
+    text-align: left;
+    font-weight: bold;
+    padding-top: 10px; }
+  .parrafo {
+    text-align: left;
+    font-size: 15px; } }
