@@ -108,7 +108,10 @@ footer p {
     padding-top: 20px; }
   .parrafo {
     text-align: left;
-    font-size: 15px; } }
+    font-size: 15px; }
+  #iframe-mapa {
+    width: 500px;
+    height: 300px; } }
 
 /* MOVIL*/
 @media (max-width: 699px) {
@@ -129,4 +132,7 @@ footer p {
     padding-top: 10px; }
   .parrafo {
     text-align: left;
-    font-size: 15px; } }
+    font-size: 15px; }
+  #iframe-mapa {
+    width: 300px;
+    height: 200px; } }
